@@ -1,0 +1,16 @@
+# Taylor-Quiz
+
+
+so this Taylor swift code is Desingd by Utkarsh 
+
+HOW TO USE THE CODE 
+
+1. COPY THE CODE 
+
+2. DROP THE CODE IN COMPIER (YOU CAN USE ONLINE COMPILER ALSO)
+
+3.CLICK ON RUN 
+
+4. THAT`S IT CODE WILL RUN PROPERLY
+
+
